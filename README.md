@@ -7,6 +7,8 @@ landed contribution wears the same mark.
 
 **https://oss.arvore.com.br**
 
+Every push to `main` deploys, including the weekly refresh commit.
+
 <p align="center">
   <img src="preview.png" alt="The Árvore OSS Contributor badge, the badge with a contribution count, and the 1200x630 share card" width="620">
 </p>
