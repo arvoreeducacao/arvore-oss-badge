@@ -1,0 +1,22 @@
+{
+  "name": "arvore-oss-badge",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Árvore-branded badge and card generator for contributors to Árvore's open source projects",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "arvore-oss-badge": "src/cli.js"
+  },
+  "scripts": {
+    "build": "node src/cli.js build",
+    "refresh": "node src/cli.js refresh"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^1.3.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

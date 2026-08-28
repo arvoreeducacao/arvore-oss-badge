@@ -1,0 +1,27 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/badges/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=600, stale-while-revalidate=86400" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    },
+    {
+      "source": "/cards/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=600, stale-while-revalidate=86400" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    },
+    {
+      "source": "/endpoint/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=600, stale-while-revalidate=86400" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}

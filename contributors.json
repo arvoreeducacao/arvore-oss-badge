@@ -1,0 +1,158 @@
+{
+  "organization": "arvoreeducacao",
+  "repositories": [
+    "arvore-browser-extensions",
+    "arvore-cursor",
+    "arvore-mcp-servers",
+    "arvore-pi-extensions",
+    "arvore-theme",
+    "arvore-tunnel",
+    "book-base-matcher",
+    "bug-jar",
+    "canopy",
+    "docusaurus-to-md",
+    "graphrag-sql",
+    "gtm-lexile",
+    "partner-api-examples",
+    "power-posthog",
+    "rhm"
+  ],
+  "contributors": [
+    {
+      "login": "Joao208",
+      "contributions": 615,
+      "repositories": [
+        "arvore-browser-extensions",
+        "arvore-cursor",
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "arvore-theme",
+        "arvore-tunnel",
+        "bug-jar",
+        "canopy",
+        "docusaurus-to-md",
+        "graphrag-sql",
+        "rhm"
+      ],
+      "name": "João Augusto",
+      "avatar": "https://avatars.githubusercontent.com/u/59159025?v=4",
+      "url": "https://github.com/Joao208"
+    },
+    {
+      "login": "ricardoraposo",
+      "contributions": 322,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "arvore-theme",
+        "bug-jar",
+        "canopy",
+        "rhm"
+      ],
+      "name": "Ricardo Raposo",
+      "avatar": "https://avatars.githubusercontent.com/u/50217712?v=4",
+      "url": "https://github.com/ricardoraposo"
+    },
+    {
+      "login": "rafaelandrade",
+      "contributions": 151,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "canopy",
+        "rhm"
+      ],
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/29763954?v=4",
+      "url": "https://github.com/rafaelandrade"
+    },
+    {
+      "login": "Jott4",
+      "contributions": 50,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "power-posthog",
+        "rhm"
+      ],
+      "name": "João Victor Cunha",
+      "avatar": "https://avatars.githubusercontent.com/u/53587274?v=4",
+      "url": "https://github.com/Jott4"
+    },
+    {
+      "login": "umaArtemis",
+      "contributions": 23,
+      "repositories": [
+        "arvore-browser-extensions",
+        "arvore-pi-extensions",
+        "rhm"
+      ],
+      "name": "Artemis",
+      "avatar": "https://avatars.githubusercontent.com/u/219741073?v=4",
+      "url": "https://github.com/umaArtemis"
+    },
+    {
+      "login": "guilhermebsantiago",
+      "contributions": 17,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions"
+      ],
+      "name": "Guilherme Santiago",
+      "avatar": "https://avatars.githubusercontent.com/u/86807475?v=4",
+      "url": "https://github.com/guilhermebsantiago"
+    },
+    {
+      "login": "VitorPiovezan",
+      "contributions": 13,
+      "repositories": [
+        "arvore-cursor",
+        "arvore-mcp-servers",
+        "rhm"
+      ],
+      "name": "Vitor Piovezan",
+      "avatar": "https://avatars.githubusercontent.com/u/56170034?v=4",
+      "url": "https://github.com/VitorPiovezan"
+    },
+    {
+      "login": "anderkonzen",
+      "contributions": 7,
+      "repositories": [
+        "partner-api-examples"
+      ],
+      "name": "Anderson Konzen",
+      "avatar": "https://avatars.githubusercontent.com/u/1413997?v=4",
+      "url": "https://github.com/anderkonzen"
+    },
+    {
+      "login": "henriqueberlesi",
+      "contributions": 2,
+      "repositories": [
+        "partner-api-examples"
+      ],
+      "name": "Henrique Berlesi",
+      "avatar": "https://avatars.githubusercontent.com/u/12514187?v=4",
+      "url": "https://github.com/henriqueberlesi"
+    },
+    {
+      "login": "revoltaxz",
+      "contributions": 2,
+      "repositories": [
+        "partner-api-examples"
+      ],
+      "name": "Guilherme Revolta",
+      "avatar": "https://avatars.githubusercontent.com/u/13983654?v=4",
+      "url": "https://github.com/revoltaxz"
+    },
+    {
+      "login": "pedro-adas",
+      "contributions": 1,
+      "repositories": [
+        "book-base-matcher"
+      ],
+      "name": "Pedro Adas",
+      "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
+      "url": "https://github.com/pedro-adas"
+    }
+  ]
+}
