@@ -4,6 +4,7 @@
     "arvore-browser-extensions",
     "arvore-cursor",
     "arvore-mcp-servers",
+    "arvore-oss-badge",
     "arvore-pi-extensions",
     "arvore-theme",
     "arvore-tunnel",
@@ -20,11 +21,12 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 615,
+      "contributions": 617,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
         "arvore-mcp-servers",
+        "arvore-oss-badge",
         "arvore-pi-extensions",
         "arvore-theme",
         "arvore-tunnel",
