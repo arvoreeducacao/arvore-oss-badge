@@ -21,7 +21,7 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 617,
+      "contributions": 621,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
@@ -42,7 +42,7 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 322,
+      "contributions": 326,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -155,6 +155,16 @@
       "name": "Pedro Adas",
       "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
       "url": "https://github.com/pedro-adas"
+    },
+    {
+      "login": "xtaveira",
+      "contributions": 1,
+      "repositories": [
+        "rhm"
+      ],
+      "name": "Davi Taveira",
+      "avatar": "https://avatars.githubusercontent.com/u/96428113?v=4",
+      "url": "https://github.com/xtaveira"
     }
   ]
 }
