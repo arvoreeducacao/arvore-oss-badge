@@ -14,6 +14,7 @@
     "docusaurus-to-md",
     "graphrag-sql",
     "gtm-lexile",
+    "leaf",
     "partner-api-examples",
     "power-posthog",
     "rhm"
@@ -21,7 +22,7 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 621,
+      "contributions": 886,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
@@ -34,6 +35,7 @@
         "canopy",
         "docusaurus-to-md",
         "graphrag-sql",
+        "leaf",
         "rhm"
       ],
       "name": "João Augusto",
@@ -42,13 +44,14 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 327,
+      "contributions": 332,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "arvore-theme",
         "bug-jar",
         "canopy",
+        "leaf",
         "rhm"
       ],
       "name": "Ricardo Raposo",
@@ -57,11 +60,12 @@
     },
     {
       "login": "rafaelandrade",
-      "contributions": 151,
+      "contributions": 159,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "canopy",
+        "leaf",
         "rhm"
       ],
       "name": null,
@@ -69,11 +73,24 @@
       "url": "https://github.com/rafaelandrade"
     },
     {
-      "login": "Jott4",
-      "contributions": 50,
+      "login": "guilhermebsantiago",
+      "contributions": 120,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
+        "leaf"
+      ],
+      "name": "Guilherme Santiago",
+      "avatar": "https://avatars.githubusercontent.com/u/86807475?v=4",
+      "url": "https://github.com/guilhermebsantiago"
+    },
+    {
+      "login": "Jott4",
+      "contributions": 53,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "leaf",
         "power-posthog",
         "rhm"
       ],
@@ -92,17 +109,6 @@
       "name": "Artemis",
       "avatar": "https://avatars.githubusercontent.com/u/219741073?v=4",
       "url": "https://github.com/umaArtemis"
-    },
-    {
-      "login": "guilhermebsantiago",
-      "contributions": 22,
-      "repositories": [
-        "arvore-mcp-servers",
-        "arvore-pi-extensions"
-      ],
-      "name": "Guilherme Santiago",
-      "avatar": "https://avatars.githubusercontent.com/u/86807475?v=4",
-      "url": "https://github.com/guilhermebsantiago"
     },
     {
       "login": "VitorPiovezan",
@@ -127,6 +133,17 @@
       "url": "https://github.com/anderkonzen"
     },
     {
+      "login": "pedro-adas",
+      "contributions": 7,
+      "repositories": [
+        "book-base-matcher",
+        "leaf"
+      ],
+      "name": "Pedro Adas",
+      "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
+      "url": "https://github.com/pedro-adas"
+    },
+    {
       "login": "henriqueberlesi",
       "contributions": 2,
       "repositories": [
@@ -145,16 +162,6 @@
       "name": "Guilherme Revolta",
       "avatar": "https://avatars.githubusercontent.com/u/13983654?v=4",
       "url": "https://github.com/revoltaxz"
-    },
-    {
-      "login": "pedro-adas",
-      "contributions": 1,
-      "repositories": [
-        "book-base-matcher"
-      ],
-      "name": "Pedro Adas",
-      "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
-      "url": "https://github.com/pedro-adas"
     },
     {
       "login": "xtaveira",
