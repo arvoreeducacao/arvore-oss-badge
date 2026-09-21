@@ -22,7 +22,7 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 886,
+      "contributions": 899,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
@@ -74,7 +74,7 @@
     },
     {
       "login": "guilhermebsantiago",
-      "contributions": 120,
+      "contributions": 123,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -100,10 +100,11 @@
     },
     {
       "login": "umaArtemis",
-      "contributions": 23,
+      "contributions": 26,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-pi-extensions",
+        "leaf",
         "rhm"
       ],
       "name": "Artemis",
@@ -162,6 +163,16 @@
       "name": "Guilherme Revolta",
       "avatar": "https://avatars.githubusercontent.com/u/13983654?v=4",
       "url": "https://github.com/revoltaxz"
+    },
+    {
+      "login": "coutinhomm",
+      "contributions": 1,
+      "repositories": [
+        "leaf"
+      ],
+      "name": "Mateus",
+      "avatar": "https://avatars.githubusercontent.com/u/83185607?v=4",
+      "url": "https://github.com/coutinhomm"
     },
     {
       "login": "xtaveira",
