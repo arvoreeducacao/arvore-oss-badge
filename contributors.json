@@ -14,6 +14,7 @@
     "docusaurus-to-md",
     "graphrag-sql",
     "gtm-lexile",
+    "hive-extensions",
     "leaf",
     "partner-api-examples",
     "power-posthog",
@@ -60,7 +61,7 @@
     },
     {
       "login": "rafaelandrade",
-      "contributions": 159,
+      "contributions": 164,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -74,10 +75,11 @@
     },
     {
       "login": "guilhermebsantiago",
-      "contributions": 123,
+      "contributions": 126,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
+        "hive-extensions",
         "leaf"
       ],
       "name": "Guilherme Santiago",
