@@ -14,16 +14,19 @@
     "docusaurus-to-md",
     "graphrag-sql",
     "gtm-lexile",
+    "hive",
     "hive-extensions",
     "leaf",
     "partner-api-examples",
     "power-posthog",
-    "rhm"
+    "rhm",
+    "seedling",
+    "understudy"
   ],
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 914,
+      "contributions": 1039,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
@@ -37,7 +40,9 @@
         "docusaurus-to-md",
         "graphrag-sql",
         "leaf",
-        "rhm"
+        "rhm",
+        "seedling",
+        "understudy"
       ],
       "name": "João Augusto",
       "avatar": "https://avatars.githubusercontent.com/u/59159025?v=4",
@@ -45,13 +50,14 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 332,
+      "contributions": 368,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "arvore-theme",
         "bug-jar",
         "canopy",
+        "hive",
         "leaf",
         "rhm"
       ],
@@ -61,13 +67,14 @@
     },
     {
       "login": "rafaelandrade",
-      "contributions": 164,
+      "contributions": 170,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "canopy",
         "leaf",
-        "rhm"
+        "rhm",
+        "seedling"
       ],
       "name": null,
       "avatar": "https://avatars.githubusercontent.com/u/29763954?v=4",
@@ -88,7 +95,7 @@
     },
     {
       "login": "Jott4",
-      "contributions": 53,
+      "contributions": 54,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
