@@ -10,6 +10,7 @@
     "arvore-tunnel",
     "book-base-matcher",
     "bug-jar",
+    "campeao-bot",
     "canopy",
     "docusaurus-to-md",
     "graphrag-sql",
@@ -26,7 +27,7 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 1039,
+      "contributions": 1041,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-cursor",
@@ -50,7 +51,7 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 368,
+      "contributions": 386,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -67,11 +68,12 @@
     },
     {
       "login": "rafaelandrade",
-      "contributions": 170,
+      "contributions": 175,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "canopy",
+        "hive",
         "leaf",
         "rhm",
         "seedling"
@@ -82,16 +84,30 @@
     },
     {
       "login": "guilhermebsantiago",
-      "contributions": 134,
+      "contributions": 136,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
+        "hive",
         "hive-extensions",
         "leaf"
       ],
       "name": "Guilherme Santiago",
       "avatar": "https://avatars.githubusercontent.com/u/86807475?v=4",
       "url": "https://github.com/guilhermebsantiago"
+    },
+    {
+      "login": "VitorPiovezan",
+      "contributions": 64,
+      "repositories": [
+        "arvore-cursor",
+        "arvore-mcp-servers",
+        "campeao-bot",
+        "rhm"
+      ],
+      "name": "Vitor Piovezan",
+      "avatar": "https://avatars.githubusercontent.com/u/56170034?v=4",
+      "url": "https://github.com/VitorPiovezan"
     },
     {
       "login": "Jott4",
@@ -119,18 +135,6 @@
       "name": "Artemis",
       "avatar": "https://avatars.githubusercontent.com/u/219741073?v=4",
       "url": "https://github.com/umaArtemis"
-    },
-    {
-      "login": "VitorPiovezan",
-      "contributions": 13,
-      "repositories": [
-        "arvore-cursor",
-        "arvore-mcp-servers",
-        "rhm"
-      ],
-      "name": "Vitor Piovezan",
-      "avatar": "https://avatars.githubusercontent.com/u/56170034?v=4",
-      "url": "https://github.com/VitorPiovezan"
     },
     {
       "login": "anderkonzen",
@@ -183,6 +187,16 @@
       "name": "Guilherme Revolta",
       "avatar": "https://avatars.githubusercontent.com/u/13983654?v=4",
       "url": "https://github.com/revoltaxz"
+    },
+    {
+      "login": "victorgabrieldeon",
+      "contributions": 1,
+      "repositories": [
+        "hive"
+      ],
+      "name": "Victor Gabriel",
+      "avatar": "https://avatars.githubusercontent.com/u/100036372?v=4",
+      "url": "https://github.com/victorgabrieldeon"
     },
     {
       "login": "xtaveira",
