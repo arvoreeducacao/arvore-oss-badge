@@ -1,36 +1,36 @@
 {
   "organization": "arvoreeducacao",
   "repositories": [
+    ".github",
     "arvore-browser-extensions",
-    "arvore-cursor",
     "arvore-mcp-servers",
     "arvore-oss-badge",
     "arvore-pi-extensions",
     "arvore-theme",
     "arvore-tunnel",
-    "book-base-matcher",
     "bug-jar",
     "campeao-bot",
     "canopy",
     "docusaurus-to-md",
+    "download",
+    "exftp",
     "graphrag-sql",
-    "gtm-lexile",
     "hive",
     "hive-extensions",
     "leaf",
     "partner-api-examples",
-    "power-posthog",
     "rhm",
+    "screenbook",
     "seedling",
     "understudy"
   ],
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 1041,
+      "contributions": 1102,
       "repositories": [
+        ".github",
         "arvore-browser-extensions",
-        "arvore-cursor",
         "arvore-mcp-servers",
         "arvore-oss-badge",
         "arvore-pi-extensions",
@@ -42,6 +42,7 @@
         "graphrag-sql",
         "leaf",
         "rhm",
+        "screenbook",
         "seedling",
         "understudy"
       ],
@@ -51,16 +52,18 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 386,
+      "contributions": 411,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
         "arvore-theme",
         "bug-jar",
+        "campeao-bot",
         "canopy",
         "hive",
         "leaf",
-        "rhm"
+        "rhm",
+        "understudy"
       ],
       "name": "Ricardo Raposo",
       "avatar": "https://avatars.githubusercontent.com/u/50217712?v=4",
@@ -68,7 +71,7 @@
     },
     {
       "login": "rafaelandrade",
-      "contributions": 175,
+      "contributions": 193,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -98,9 +101,8 @@
     },
     {
       "login": "VitorPiovezan",
-      "contributions": 64,
+      "contributions": 62,
       "repositories": [
-        "arvore-cursor",
         "arvore-mcp-servers",
         "campeao-bot",
         "rhm"
@@ -111,12 +113,12 @@
     },
     {
       "login": "Jott4",
-      "contributions": 54,
+      "contributions": 61,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
+        "hive",
         "leaf",
-        "power-posthog",
         "rhm"
       ],
       "name": "João Victor Cunha",
@@ -125,16 +127,71 @@
     },
     {
       "login": "umaArtemis",
-      "contributions": 26,
+      "contributions": 27,
       "repositories": [
         "arvore-browser-extensions",
         "arvore-pi-extensions",
         "leaf",
-        "rhm"
+        "rhm",
+        "screenbook"
       ],
       "name": "Artemis",
       "avatar": "https://avatars.githubusercontent.com/u/219741073?v=4",
       "url": "https://github.com/umaArtemis"
+    },
+    {
+      "login": "joao-medeiros-arvore",
+      "contributions": 23,
+      "repositories": [
+        ".github"
+      ],
+      "name": null,
+      "avatar": "https://avatars.githubusercontent.com/u/111362103?v=4",
+      "url": "https://github.com/joao-medeiros-arvore"
+    },
+    {
+      "login": "mlankenau",
+      "contributions": 18,
+      "repositories": [
+        "exftp"
+      ],
+      "name": "Marcus Lankenau",
+      "avatar": "https://avatars.githubusercontent.com/u/667218?v=4",
+      "url": "https://github.com/mlankenau"
+    },
+    {
+      "login": "asiniy",
+      "contributions": 13,
+      "repositories": [
+        "download"
+      ],
+      "name": "Alex Antonov",
+      "avatar": "https://avatars.githubusercontent.com/u/1296472?v=4",
+      "url": "https://github.com/asiniy"
+    },
+    {
+      "login": "coutinhomm",
+      "contributions": 8,
+      "repositories": [
+        "hive-extensions",
+        "leaf",
+        "screenbook"
+      ],
+      "name": "Mateus",
+      "avatar": "https://avatars.githubusercontent.com/u/83185607?v=4",
+      "url": "https://github.com/coutinhomm"
+    },
+    {
+      "login": "pedro-adas",
+      "contributions": 8,
+      "repositories": [
+        "arvore-mcp-servers",
+        "arvore-pi-extensions",
+        "leaf"
+      ],
+      "name": "Pedro Adas",
+      "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
+      "url": "https://github.com/pedro-adas"
     },
     {
       "login": "anderkonzen",
@@ -147,26 +204,26 @@
       "url": "https://github.com/anderkonzen"
     },
     {
-      "login": "coutinhomm",
-      "contributions": 7,
+      "login": "andrelip",
+      "contributions": 6,
       "repositories": [
-        "hive-extensions",
-        "leaf"
+        "download",
+        "exftp"
       ],
-      "name": "Mateus",
-      "avatar": "https://avatars.githubusercontent.com/u/83185607?v=4",
-      "url": "https://github.com/coutinhomm"
+      "name": "Andre",
+      "avatar": "https://avatars.githubusercontent.com/u/1043693?v=4",
+      "url": "https://github.com/andrelip"
     },
     {
-      "login": "pedro-adas",
-      "contributions": 7,
+      "login": "jsvitolo",
+      "contributions": 5,
       "repositories": [
-        "book-base-matcher",
-        "leaf"
+        ".github",
+        "exftp"
       ],
-      "name": "Pedro Adas",
-      "avatar": "https://avatars.githubusercontent.com/u/29437772?v=4",
-      "url": "https://github.com/pedro-adas"
+      "name": "Jones",
+      "avatar": "https://avatars.githubusercontent.com/u/8527697?v=4",
+      "url": "https://github.com/jsvitolo"
     },
     {
       "login": "henriqueberlesi",
@@ -179,6 +236,16 @@
       "url": "https://github.com/henriqueberlesi"
     },
     {
+      "login": "RafaoCarvalh0",
+      "contributions": 2,
+      "repositories": [
+        "exftp"
+      ],
+      "name": "Rafael Vilas Boas de Carvalho",
+      "avatar": "https://avatars.githubusercontent.com/u/53431838?v=4",
+      "url": "https://github.com/RafaoCarvalh0"
+    },
+    {
       "login": "revoltaxz",
       "contributions": 2,
       "repositories": [
@@ -187,6 +254,16 @@
       "name": "Guilherme Revolta",
       "avatar": "https://avatars.githubusercontent.com/u/13983654?v=4",
       "url": "https://github.com/revoltaxz"
+    },
+    {
+      "login": "chriswithH",
+      "contributions": 1,
+      "repositories": [
+        ".github"
+      ],
+      "name": "Christian Cintra",
+      "avatar": "https://avatars.githubusercontent.com/u/43558421?v=4",
+      "url": "https://github.com/chriswithH"
     },
     {
       "login": "victorgabrieldeon",
