@@ -7,7 +7,6 @@
     "arvore-oss-badge",
     "arvore-pi-extensions",
     "arvore-theme",
-    "arvore-tunnel",
     "bug-jar",
     "campeao-bot",
     "canopy",
@@ -27,7 +26,7 @@
   "contributors": [
     {
       "login": "Joao208",
-      "contributions": 1102,
+      "contributions": 1120,
       "repositories": [
         ".github",
         "arvore-browser-extensions",
@@ -35,11 +34,11 @@
         "arvore-oss-badge",
         "arvore-pi-extensions",
         "arvore-theme",
-        "arvore-tunnel",
         "bug-jar",
         "canopy",
         "docusaurus-to-md",
         "graphrag-sql",
+        "hive",
         "leaf",
         "rhm",
         "screenbook",
@@ -52,7 +51,7 @@
     },
     {
       "login": "ricardoraposo",
-      "contributions": 411,
+      "contributions": 455,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -87,7 +86,7 @@
     },
     {
       "login": "guilhermebsantiago",
-      "contributions": 136,
+      "contributions": 155,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -100,20 +99,8 @@
       "url": "https://github.com/guilhermebsantiago"
     },
     {
-      "login": "VitorPiovezan",
-      "contributions": 62,
-      "repositories": [
-        "arvore-mcp-servers",
-        "campeao-bot",
-        "rhm"
-      ],
-      "name": "Vitor Piovezan",
-      "avatar": "https://avatars.githubusercontent.com/u/56170034?v=4",
-      "url": "https://github.com/VitorPiovezan"
-    },
-    {
       "login": "Jott4",
-      "contributions": 61,
+      "contributions": 62,
       "repositories": [
         "arvore-mcp-servers",
         "arvore-pi-extensions",
@@ -124,6 +111,18 @@
       "name": "João Victor Cunha",
       "avatar": "https://avatars.githubusercontent.com/u/53587274?v=4",
       "url": "https://github.com/Jott4"
+    },
+    {
+      "login": "VitorPiovezan",
+      "contributions": 62,
+      "repositories": [
+        "arvore-mcp-servers",
+        "campeao-bot",
+        "rhm"
+      ],
+      "name": "Vitor Piovezan",
+      "avatar": "https://avatars.githubusercontent.com/u/56170034?v=4",
+      "url": "https://github.com/VitorPiovezan"
     },
     {
       "login": "umaArtemis",
@@ -171,8 +170,9 @@
     },
     {
       "login": "coutinhomm",
-      "contributions": 8,
+      "contributions": 10,
       "repositories": [
+        "bug-jar",
         "hive-extensions",
         "leaf",
         "screenbook"
